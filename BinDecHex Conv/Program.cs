@@ -38,7 +38,7 @@ namespace BinDecHex_Conv
                     Console.Write(Hexadecimal.ConvertToDec(number));
                     break;
                 default:
-                    Console.WriteLine("Incorrect input!!!";
+                    Console.WriteLine("Incorrect input!!!");
                     break;
             }
         }
